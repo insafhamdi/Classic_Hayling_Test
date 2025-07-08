@@ -1,6 +1,6 @@
-# EMOHayling – Automated Scoring of the Classic French Hayling Test
+# Automated Scoring of the Classic French Hayling Test
 
-Welcome to **EMOHayling**, the first end-to-end open-source toolkit for **automated scoring** of the classic French Hayling Inhibition Test.
+Welcome to **Classic Hayling Test**, the first end-to-end open-source toolkit for **automated scoring** of the classic French Hayling Inhibition Test.
 ---
 
 ## Demo Video
