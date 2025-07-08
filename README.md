@@ -6,9 +6,13 @@ Welcome to **EMOHayling**, the first end-to-end open-source toolkit for **automa
 
 ## Demo Video
 
+https://github.com/user-attachments/assets/7f14183d-2694-4054-b6c8-6b68ad772c52
 
 
-https://github.com/user-attachments/assets/b410e0a7-b966-4314-b574-12dbd5a86866
+
+
+
+
 
 
 
